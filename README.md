@@ -1,2 +1,2 @@
 # Protocolo-SMTP
- Projeto de um simples SMTP em Python3
+ Projeto de um simples SMTP em Python
